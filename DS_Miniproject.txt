@@ -1,10 +1,6 @@
 1. Write title of the project .
 Ans. Hospital Appointment System.
-2. Group details ( Roll no,name etc)
-Ans. UCE2021550 - Ankita Patil
-UCE2021553 - Niharika Patil
-UCE2021554 - Pradnya Patil
-UCE201555 - Sanika Patil
+
 3. Explain in brief about the project .
 Our project provides the basic functionalities needed to handle hospital appointment system.It is
 a menu-driven program.It enables doctors and admins to view and handle appointment
